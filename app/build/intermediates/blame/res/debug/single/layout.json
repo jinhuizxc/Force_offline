@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\workspace-studio\\Force_offline\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat.xml",
+        "source": "D:\\workspace-studio\\Force_offline\\app\\src\\main\\res\\layout\\chat.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\Force_offline\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\workspace-studio\\Force_offline\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\workspace-studio\\Force_offline\\app\\build\\intermediates\\res\\merged\\debug\\layout\\friendlist.xml",
+        "source": "D:\\workspace-studio\\Force_offline\\app\\src\\main\\res\\layout\\friendlist.xml"
+    }
+]
